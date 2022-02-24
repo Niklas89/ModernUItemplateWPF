@@ -1,0 +1,16 @@
+C:\Users\utilisateur\source\repos\WPF\MordernUI\bin\Debug\MordernUI.exe.config
+C:\Users\utilisateur\source\repos\WPF\MordernUI\bin\Debug\MordernUI.exe
+C:\Users\utilisateur\source\repos\WPF\MordernUI\bin\Debug\MordernUI.pdb
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.csproj.AssemblyReference.cache
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MainWindow.g.cs
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\App.g.cs
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI_MarkupCompile.cache
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI_MarkupCompile.lref
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MainWindow.baml
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.g.resources
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.Properties.Resources.resources
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.csproj.GenerateResource.cache
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.csproj.CoreCompileInputs.cache
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.exe
+C:\Users\utilisateur\source\repos\WPF\MordernUI\obj\Debug\MordernUI.pdb
